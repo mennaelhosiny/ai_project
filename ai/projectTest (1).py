@@ -19,6 +19,7 @@ from sklearn.metrics import accuracy_score
 oliv = datasets.fetch_olivetti_faces()
 images = oliv.images # save images
 target = oliv.target
+dir="face-recognition-on-olivetti-dataset.ipynb"
 
 
 # In[49]:
